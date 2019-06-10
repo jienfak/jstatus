@@ -2,3 +2,4 @@
 *.so
 slstatus
 config.mk
+nohup.out
